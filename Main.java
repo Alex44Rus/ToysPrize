@@ -44,7 +44,5 @@ public class Main {
                 IOException e) {
             System.err.format("IOException: %%n", e);
         }
-
-
     }
 }
